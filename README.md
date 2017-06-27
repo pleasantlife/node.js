@@ -28,3 +28,8 @@
 ### Bad!    
 
   - CPU 사용률이 높은 어플리케이션
+  
+## node.js 공부할 때  사이트
+
+  - node.js로 서버 구축하기 : https://www.gitbook.com/book/javafa/nodejs_server_basic/details
+  - node.js 강좌 : https://velopert.com/133
